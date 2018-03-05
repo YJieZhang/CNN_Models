@@ -1,5 +1,5 @@
 # CNN_Models
-Play cnn models with CIFAR-10
+Play CNN models with CIFAR-10
 
 Models until now:
 VGG
